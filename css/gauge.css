@@ -1,0 +1,64 @@
+@font-face {
+    font-family: 'GaugeHeavy';
+        src: url('/assets/fonts/gauge/f876de331c11a59d0f457e210ba68864/ff1f574cbb3bad682ff71560f167e9f0/GaugeHeavy.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+      }
+
+@font-face {
+    font-family: 'GaugeItalic';
+        src: url('/assets/fonts/gauge/f876de331c11a59d0f457e210ba68864/e81837c6c2a8b8a28c8a8b2198c948a3/GaugeItalic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+      }
+
+@font-face {
+    font-family: 'GaugeOblique';
+        src: url('/assets/fonts/gauge/f876de331c11a59d0f457e210ba68864/ef47c56ec251d50516cb4339240789fc/GaugeOblique.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+      }
+
+@font-face {
+    font-family: 'GaugeRegular';
+        src: url('/assets/fonts/gauge/f876de331c11a59d0f457e210ba68864/5268de5352e94561a7565fafc20af060/GaugeRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
+ /* The following rules are deprecated. */ 
+
+@font-face {
+    font-family: 'Gauge';
+        src: url('/assets/fonts/gauge/f876de331c11a59d0f457e210ba68864/ff1f574cbb3bad682ff71560f167e9f0/GaugeHeavy.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+      }
+
+
+
+@font-face {
+    font-family: 'Gauge';
+        src: url('/assets/fonts/gauge/f876de331c11a59d0f457e210ba68864/e81837c6c2a8b8a28c8a8b2198c948a3/GaugeItalic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+      }
+
+
+
+@font-face {
+    font-family: 'Gauge';
+        src: url('/assets/fonts/gauge/f876de331c11a59d0f457e210ba68864/ef47c56ec251d50516cb4339240789fc/GaugeOblique.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+      }
+
+
+
+@font-face {
+    font-family: 'Gauge';
+        src: url('/assets/fonts/gauge/f876de331c11a59d0f457e210ba68864/5268de5352e94561a7565fafc20af060/GaugeRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+      }
+

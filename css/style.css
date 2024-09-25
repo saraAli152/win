@@ -1,0 +1,38 @@
+* {
+  font-family: "GaugeRegular";
+  font-weight: normal;
+  font-style: normal;
+}
+.frist {
+  background-image: url("../images/pngwing.com.png");
+}
+li,
+label {
+  font-size: 19px;
+}
+#countdown {
+  color: #73a05e;
+}
+.modal-header .btn-close {
+  margin: auto -0.5rem -0.5rem;
+}
+.loader-con {
+  display: none;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #100a0ac7;
+}
+#loader {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.list-group-item {
+  background-color: transparent;
+}
+
+/* CSS */
